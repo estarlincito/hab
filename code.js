@@ -14,7 +14,6 @@ if (!localStorage.getItem("hab__data")) {
             "N__204": "Disponible",
             "N__301": "Disponible",
             "N__303": "Disponible",
-            "N__205": "Disponible",
             "N__206": "Disponible",
             "N__209": "Disponible",
             "N__304": "Disponible",
